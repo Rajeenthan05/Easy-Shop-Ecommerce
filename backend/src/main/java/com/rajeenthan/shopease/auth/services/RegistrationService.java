@@ -1,10 +1,10 @@
-package com.thecodereveal.shopease.auth.services;
+package com.rajeenthan.shopease.auth.services;
 
-import com.thecodereveal.shopease.auth.dto.RegistrationRequest;
-import com.thecodereveal.shopease.auth.dto.RegistrationResponse;
-import com.thecodereveal.shopease.auth.entities.User;
-import com.thecodereveal.shopease.auth.helper.VerificationCodeGenerator;
-import com.thecodereveal.shopease.auth.repositories.UserDetailRepository;
+import com.rajeenthan.shopease.auth.dto.RegistrationRequest;
+import com.rajeenthan.shopease.auth.dto.RegistrationResponse;
+import com.rajeenthan.shopease.auth.entities.User;
+import com.rajeenthan.shopease.auth.helper.VerificationCodeGenerator;
+import com.rajeenthan.shopease.auth.repositories.UserDetailRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

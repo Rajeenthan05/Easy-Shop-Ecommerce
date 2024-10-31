@@ -1,7 +1,7 @@
-package com.thecodereveal.shopease.auth.services;
+package com.rajeenthan.shopease.auth.services;
 
-import com.thecodereveal.shopease.auth.entities.Authority;
-import com.thecodereveal.shopease.auth.repositories.AuthorityRepository;
+import com.rajeenthan.shopease.auth.entities.Authority;
+import com.rajeenthan.shopease.auth.repositories.AuthorityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
