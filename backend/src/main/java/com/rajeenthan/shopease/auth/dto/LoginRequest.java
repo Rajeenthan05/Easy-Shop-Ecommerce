@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease.auth.dto;
+package com.rajeenthan.shopease.auth.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,12 +9,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class RegistrationRequest {
-
-    private String firstName;
-    private String lastName;
-    private String email;
+public class LoginRequest {
+    private String userName;
     private CharSequence password;
-    private String phoneNumber;
-
 }

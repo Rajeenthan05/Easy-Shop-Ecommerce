@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease.auth.dto;
+package com.rajeenthan.shopease.auth.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,7 +9,9 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class UserToken {
+public class RegistrationResponse {
 
-    private String token;
+    private int code;
+    private String message;
+
 }

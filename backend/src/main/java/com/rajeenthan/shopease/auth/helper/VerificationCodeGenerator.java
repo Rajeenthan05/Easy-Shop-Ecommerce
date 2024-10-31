@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease.auth.helper;
+package com.rajeenthan.shopease.auth.helper;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease.auth.entities;
+package com.rajeenthan.shopease.auth.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

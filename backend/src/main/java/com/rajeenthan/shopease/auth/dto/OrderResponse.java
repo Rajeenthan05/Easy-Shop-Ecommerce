@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease.auth.dto;
+package com.rajeenthan.shopease.auth.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,6 +1,6 @@
-package com.thecodereveal.shopease.auth.dto;
+package com.rajeenthan.shopease.auth.dto;
 
-import com.thecodereveal.shopease.entities.Address;
+import com.rajeenthan.shopease.entities.Address;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

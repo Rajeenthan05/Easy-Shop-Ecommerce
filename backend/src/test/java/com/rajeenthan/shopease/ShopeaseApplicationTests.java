@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease;
+package com.rajeenthan.shopease;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
