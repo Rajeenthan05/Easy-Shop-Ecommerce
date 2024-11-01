@@ -1,8 +1,8 @@
-package com.thecodereveal.shopease.controllers;
+package com.rajeenthan.shopease.controllers;
 
-import com.thecodereveal.shopease.dto.AddressRequest;
-import com.thecodereveal.shopease.entities.Address;
-import com.thecodereveal.shopease.services.AddressService;
+import com.rajeenthan.shopease.dto.AddressRequest;
+import com.rajeenthan.shopease.entities.Address;
+import com.rajeenthan.shopease.services.AddressService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

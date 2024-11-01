@@ -1,8 +1,8 @@
-package com.thecodereveal.shopease.controllers;
+package com.rajeenthan.shopease.controllers;
 
-import com.thecodereveal.shopease.dto.CategoryDto;
-import com.thecodereveal.shopease.entities.Category;
-import com.thecodereveal.shopease.services.CategoryService;
+import com.rajeenthan.shopease.dto.CategoryDto;
+import com.rajeenthan.shopease.entities.Category;
+import com.rajeenthan.shopease.services.CategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
