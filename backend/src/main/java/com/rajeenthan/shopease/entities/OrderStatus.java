@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease.entities;
+package com.rajeenthan.shopease.entities;
 
 public enum OrderStatus {
     PENDING,

@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease.entities;
+package com.rajeenthan.shopease.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
