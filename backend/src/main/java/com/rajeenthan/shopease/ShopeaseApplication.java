@@ -1,4 +1,4 @@
-package com.thecodereveal.shopease;
+package com.rajeenthan.shopease;
 
 import com.stripe.Stripe;
 import jakarta.annotation.PostConstruct;

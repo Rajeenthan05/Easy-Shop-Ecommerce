@@ -1,11 +1,11 @@
-package com.thecodereveal.shopease.services;
+package com.rajeenthan.shopease.services;
 
-import com.thecodereveal.shopease.dto.CategoryDto;
-import com.thecodereveal.shopease.dto.CategoryTypeDto;
-import com.thecodereveal.shopease.entities.Category;
-import com.thecodereveal.shopease.entities.CategoryType;
-import com.thecodereveal.shopease.exceptions.ResourceNotFoundEx;
-import com.thecodereveal.shopease.repositories.CategoryRepository;
+import com.rajeenthan.shopease.dto.CategoryDto;
+import com.rajeenthan.shopease.dto.CategoryTypeDto;
+import com.rajeenthan.shopease.entities.Category;
+import com.rajeenthan.shopease.entities.CategoryType;
+import com.rajeenthan.shopease.exceptions.ResourceNotFoundEx;
+import com.rajeenthan.shopease.repositories.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

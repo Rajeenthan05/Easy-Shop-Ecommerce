@@ -1,6 +1,6 @@
-package com.thecodereveal.shopease.specification;
+package com.rajeenthan.shopease.specification;
 
-import com.thecodereveal.shopease.entities.Product;
+import com.rajeenthan.shopease.entities.Product;
 import org.springframework.data.jpa.domain.Specification;
 
 import java.util.UUID;

@@ -1,11 +1,11 @@
-package com.thecodereveal.shopease.services;
+package com.rajeenthan.shopease.services;
 
 import com.stripe.model.PaymentIntent;
-import com.thecodereveal.shopease.auth.dto.OrderResponse;
-import com.thecodereveal.shopease.auth.entities.User;
-import com.thecodereveal.shopease.dto.OrderRequest;
-import com.thecodereveal.shopease.entities.*;
-import com.thecodereveal.shopease.repositories.OrderRepository;
+import com.rajeenthan.shopease.auth.dto.OrderResponse;
+import com.rajeenthan.shopease.auth.entities.User;
+import com.rajeenthan.shopease.dto.OrderRequest;
+import com.rajeenthan.shopease.entities.*;
+import com.rajeenthan.shopease.repositories.OrderRepository;
 import jakarta.transaction.Transactional;
 import org.apache.coyote.BadRequestException;
 import org.springframework.beans.factory.annotation.Autowired;
